@@ -1,0 +1,63 @@
+
+
+
+div.SearchBar{
+  width: 50%;
+  padding-left: 110px;
+  padding-right: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: inline-block;
+align-self: center;
+
+}
+
+.CategoryDD{
+  width: 20%;
+  margin-top: 26px;
+  padding-left: 40px;
+  padding-right: 10px;
+  margin-right: 10px;
+  margin-right: 10px;
+  display: inline-block;
+  
+  
+
+}
+
+.SearchButton{
+  width: 20%;
+  padding-left: 10px;
+  padding-right: 0px;
+  margin: 0px;
+  display: inline-block; 
+align-self: center;
+}
+
+.searchDiv{
+  height: 74px;
+  background: #f1f1f1;
+  align-self: center;
+
+}
+
+.searcDiv{
+ height: 26px;
+  background: #f1f1f1;
+  align-self: center;
+}
+
+.homeButton{
+    float : right;
+      background: #f1f1f1;
+
+}
+
+.home{
+margin-left:10px;
+}
+
+
+.AllBooks{
+      margin-top: 51px;
+}
